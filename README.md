@@ -47,3 +47,8 @@
 * **Yonetici:** YoneticiID ,Pozisyon
 * **Muhasebeci:** MuhasebeciID ,Deneyim
   
+
+
+                                 
+![ERD ](FirmaLimanLojistik.png)
+
